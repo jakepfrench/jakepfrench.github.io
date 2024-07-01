@@ -1,6 +1,6 @@
-title: "Blog Title"
+title: "J. French Portfolio"
 author: "Jake French"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Portfolio / Site"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
