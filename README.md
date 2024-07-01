@@ -15,6 +15,15 @@ I am an experienced Senior Development Engineer with a strong background in prod
  - Bachelor of Engineering (B.Eng.) in Electronic Engineering, Essex University, 2002
  
 
+## Contact
+
+Feel free to reach out to me via email or connect with me on LinkedIn and GitHub:
+
+- **Email**: [emailjakefrench@googlemail.com](mailto:emailjakefrench@googlemail.com)
+- **LinkedIn**: [Jake French](www.linkedin.com/in/jake-french-phd-6731b63a)
+- **GitHub**: [jakepfrench](https://github.com/jakepfrench/)
+
+
 ## License
 
 [public domain](http://unlicense.org/)
