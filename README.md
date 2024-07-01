@@ -1,25 +1,19 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+I am an experienced Senior Development Engineer with a strong background in product development. My expertise spans various domains, including embedded electronics, data science, and software development. I enjoy learning new programming languages, though I primarily use C, C++, C#, and Python.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Education
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Doctor of Philosophy (Ph.D.) in Field Emission Magnetic Sensors, University College London, 2008
+ - Published Work: Field Emission Magnetometers and Other Applications
+ 
+ - Bachelor of Engineering (B.Eng.) in Electronic Engineering, Essex University, 2002
+ 
 
 ## Based on
 
@@ -71,6 +65,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:emailjakefrench@googlemail.com"}
   - {title: Github, icon: github, url: "https://github.com/jakepfrench/"}
+  - {title: LinkedIn, icon: linkedin, url: "www.linkedin.com/in/jake-french-phd-6731b63a"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
